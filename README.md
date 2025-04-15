@@ -26,12 +26,19 @@
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://instagram.com/alessandro.mazzariol" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="30"/>
-  </a>
-</p>
+<table style="border: none;">
+  <tr>
+    <td>
+
+### 🧠 About Me:
+- 🔭 I'm currently diving into **C++ and React Framework**
+- 🌱 Learning **GDScript** and refining my **C++ & C** skills
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
