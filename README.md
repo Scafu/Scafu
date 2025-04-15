@@ -15,7 +15,7 @@
 
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 70%; max-width: 300px/>
+        <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 70%; max-width: 300px"/>
     </td>
   </tr>
 </table>
