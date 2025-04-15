@@ -23,6 +23,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,git,qt&theme=dark" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
+</p>
 
 ---
 
