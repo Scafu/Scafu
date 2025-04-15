@@ -3,16 +3,16 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; padding-right: 20px;">
+<div align="left" style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
     <h3>🧠 About Me:</h3>
     <ul>
       <li>🔭 I'm currently diving into <strong>C++ and React Framework</strong></li>
       <li>🌱 Learning <strong>GDScript</strong> and refining my <strong>C++ & C</strong> skills</li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 100%; max-width: 500px;"/>
+  <div>
+    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="500"/>
   </div>
 </div>
 
@@ -28,7 +28,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="51%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="46%"/>
-
 </div>
 
 ---
@@ -43,6 +42,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
 </div>
+
 
 
 
