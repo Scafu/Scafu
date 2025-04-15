@@ -1,14 +1,61 @@
 <h1 align="center">Hi 👋, I'm Alessandro aka Scafu</h1>
-<h3 align="center">Current IT Student at University of Padua</h3>
+<h3 align="center">💻 Current IT Student at University of Padua</h3>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=cad3f5" />
+</div>
+
+---
+
+### 🧠 About Me:
+- 🔭 I'm currently diving into **Flutter & Qt development**
+- 🌱 Learning **Firebase** and refining my **C++ & Dart** skills
+- ⚙️ Love building interactive UI and clean architectures
+- 🎯 Always up for learning and contributing to open source
+
+---
+
+### 🔗 Connect with me:
 <p align="left">
-<a href="https://instagram.com/alessandro.mazzariol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessandro.mazzariol" height="30" width="40" /></a>
+  <a href="https://instagram.com/alessandro.mazzariol" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scafu&show_icons=true&locale=en&layout=compact" alt="scafu" /></p>
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,git,qt&theme=dark" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&locale=en" alt="scafu" /></p>
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=catppuccin&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=catppuccin&hide_border=true" width="48%"/>
+</div>
+
+---
+
+### 🏆 Badges & Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scafu&theme=onedark&no-bg=true&no-frame=true&column=7"/>
+</p>
+
+---
+
+### 📂 Projects:
+| Name | Description | Stack |
+|------|-------------|-------|
+| 🧭 **UniMate** | A simple app to manage university tasks and deadlines | Flutter, Firebase |
+| 🖥️ **QT-MediaPlayer** | Desktop media player using Qt and C++ | Qt, C++ |
+| 📊 **Data Analyzer** *(WIP)* | Graphical data analysis tool for CSV inputs | Flutter, Dart |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
+</div>
+
