@@ -3,19 +3,18 @@
 
 ---
 
-<table style="border: none;">
-  <tr>
-    <td>
-
-### 🧠 About Me:
-- 🔭 I'm currently diving into **C++ and React Framework**
-- 🌱 Learning **GDScript** and refining my **C++ & C** skills
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h3>🧠 About Me:</h3>
+    <ul>
+      <li>🔭 I'm currently diving into <strong>C++ and React Framework</strong></li>
+      <li>🌱 Learning <strong>GDScript</strong> and refining my <strong>C++ & C</strong> skills</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
+  </div>
+</div>
 
 ---
 
@@ -38,5 +37,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=scafu&theme=onedark&no-bg=true&no-frame=true&column=7"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
+</div>
+
 
 
