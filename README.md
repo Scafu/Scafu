@@ -3,18 +3,16 @@
 
 ---
 
-<div align="left" style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="300" style="display:inline-block; vertical-align: middle;"/>
+  <span style="display:inline-block; vertical-align: middle; margin-left: 20px;">
     <h3>🧠 About Me:</h3>
     <ul>
       <li>🔭 I'm currently diving into <strong>C++ and React Framework</strong></li>
       <li>🌱 Learning <strong>GDScript</strong> and refining my <strong>C++ & C</strong> skills</li>
     </ul>
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="500"/>
-  </div>
-</div>
+  </span>
+</p>
 
 ---
 
@@ -42,6 +40,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
 </div>
+
 
 
 
