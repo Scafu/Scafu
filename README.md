@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro aka Scafu</h1>
 <h3 align="center">💻 Current IT Student at University of Padua</h3>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="50%" />
-</div>
-
 ---
 
 ### 🧠 About Me:
@@ -13,6 +9,9 @@
 - ⚙️ Love building interactive UI and clean architectures
 - 🎯 Always up for learning and contributing to open source
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="50%" />
+</div>
 ---
 
 ### 🔗 Connect with me:
