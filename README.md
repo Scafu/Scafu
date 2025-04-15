@@ -3,15 +3,22 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
+
 ### 🧠 About Me:
 - 🔭 I'm currently diving into **Flutter & Qt development**
 - 🌱 Learning **Firebase** and refining my **C++ & Dart** skills
 - ⚙️ Love building interactive UI and clean architectures
 - 🎯 Always up for learning and contributing to open source
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="50%" />
-</div>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="300px"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔗 Connect with me:
