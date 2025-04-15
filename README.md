@@ -3,7 +3,7 @@
 
 ---
 
-<table border = "0">
+<table style="border: none;">
   <tr>
     <td>
 
