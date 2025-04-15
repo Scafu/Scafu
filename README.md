@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>🧠 About Me:</h3>
+      <h2>🧠 About Me:</h2>
       <ul>
         <li>🔭 I'm currently diving into <strong>C++ and React Framework</strong></li>
         <li>🌱 Learning <strong>GDScript</strong> and refining my <strong>C++ & C</strong> skills</li>
