@@ -8,11 +8,8 @@
     <td>
 
 ### 🧠 About Me:
-- 🔭 I'm currently diving into **Flutter & Qt development**
-- 🌱 Learning **Firebase** and refining my **C++ & Dart** skills
-- ⚙️ Love building interactive UI and clean architectures
-- 🎯 Always up for learning and contributing to open source
-
+- 🔭 I'm currently diving into **C++ and React Framework**
+- 🌱 Learning **GDScript** and refining my **C++ & C** skills
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
