@@ -3,7 +3,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: right;">
   <div>
     <h3>🧠 About Me:</h3>
     <ul>
