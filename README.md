@@ -31,14 +31,13 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### 🧰 Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,git,qt&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=catppuccin&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=catppuccin&hide_border=true" width="48%"/>
