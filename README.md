@@ -2,7 +2,7 @@
 <h3 align="center">💻 Current IT Student at University of Padua</h3>
 
 <div align="center">
-  <img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" />
+    <img src="https://raw.githubusercontent.com/scafu/your-repo-name/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="100%" />
 </div>
 
 ---
