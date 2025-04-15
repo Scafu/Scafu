@@ -7,9 +7,14 @@
   <tr>
     <td>
 
-### 🧠 About Me:
-- 🔭 I'm currently diving into **C++ and React Framework**
-- 🌱 Learning **GDScript** and refining my **C++ & C** skills
+<div style="font-family: monospace; font-size: 14px;">
+  <h3>🧠 About Me:</h3>
+  <ul>
+    <li>🔭 I'm diving into <b>C++ and React</b></li>
+    <li>🌱 Learning <b>GDScript</b> and refining <b>C++ & C</b> skills</li>
+  </ul>
+</div>
+
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
