@@ -2,7 +2,7 @@
 <h3 align="center">💻 Current IT Student at University of Padua</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=cad3f5](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" />
+  <img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" />
 </div>
 
 ---
