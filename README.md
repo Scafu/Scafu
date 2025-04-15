@@ -46,14 +46,6 @@
 
 ---
 
-### 📂 Projects:
-| Name | Description | Stack |
-|------|-------------|-------|
-| 🧭 **UniMate** | A simple app to manage university tasks and deadlines | Flutter, Firebase |
-| 🖥️ **QT-MediaPlayer** | Desktop media player using Qt and C++ | Qt, C++ |
-| 📊 **Data Analyzer** *(WIP)* | Graphical data analysis tool for CSV inputs | Flutter, Dart |
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
