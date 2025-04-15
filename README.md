@@ -7,7 +7,7 @@
   <tr>
     <td>
 
-
+<table>
 ###🧠 About Me:</h3>
 
    🔭 I'm diving into <b>C++ and React</b></li>
