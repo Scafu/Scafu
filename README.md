@@ -7,13 +7,12 @@
   <tr>
     <td>
 
-<div style="font-family: monospace; font-size: 14px;">
-  <h3>🧠 About Me:</h3>
-  <ul>
-    <li>🔭 I'm diving into <b>C++ and React</b></li>
-    <li>🌱 Learning <b>GDScript</b> and refining <b>C++ & C</b> skills</li>
-  </ul>
-</div>
+
+###🧠 About Me:</h3>
+
+   🔭 I'm diving into <b>C++ and React</b></li>
+   🌱 Learning <b>GDScript</b> and refining <b>C++ & C</b> skills</li>
+  
 
     </td>
     <td>
