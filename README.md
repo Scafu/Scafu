@@ -39,10 +39,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=scafu&theme=onedark&no-bg=true&no-frame=true&column=7"/>
 </p>
 
----
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8aadf4&height=150&section=footer"/>
-</div>
 
