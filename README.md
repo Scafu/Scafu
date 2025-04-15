@@ -7,29 +7,6 @@
   <tr>
     <td>
 
-<table>
-</td>
-  <td>
-###🧠 About Me:</h3>
-
-   🔭 I'm diving into <b>C++ and React</b></li>
-   🌱 Learning <b>GDScript</b> and refining <b>C++ & C</b> skills</li>
-   </td>
-  </td>
-
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" style="width: 500px;"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<table style="border: none;">
-  <tr>
-    <td>
-
 ### 🧠 About Me:
 - 🔭 I'm currently diving into **C++ and React Framework**
 - 🌱 Learning **GDScript** and refining my **C++ & C** skills
