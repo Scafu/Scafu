@@ -2,7 +2,7 @@
 <h3 align="center">💻 Current IT Student at University of Padua</h3>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="100%" />
+    <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="50%" />
 </div>
 
 ---
