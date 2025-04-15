@@ -8,11 +8,14 @@
     <td>
 
 <table>
+</td>
+  <td>
 ###🧠 About Me:</h3>
 
    🔭 I'm diving into <b>C++ and React</b></li>
    🌱 Learning <b>GDScript</b> and refining <b>C++ & C</b> skills</li>
-  
+   </td>
+  </td>
 
     </td>
     <td>
