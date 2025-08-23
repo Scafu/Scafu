@@ -31,12 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="46%"/>
 </div>
 
----
-
-### 🏆 Badges & Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scafu&theme=onedark&no-bg=true&no-frame=true&column=7"/>
-</p>
 
 
 
