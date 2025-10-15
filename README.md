@@ -8,7 +8,7 @@
     <td width="50%">
       <h2>🧠 About Me:</h2>
       <ul>
-        <li>🌱 Learning <strong>GDScript</strong> and refining my <strong>C++ & C</strong> skills</li>
+        <li>🌱 Learning <strong>Kotlin, Compose</strong> and refining my <strong>Flutter</strong>skills</li>
       </ul>
     </td>
     <td width="50%">
