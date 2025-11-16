@@ -2,26 +2,18 @@
 <h3 align="center">💻 Current IT Student at University of Padua</h3>
 
 ---
+About Me:
+- I'm 21 years old.
+- I'm currently studying at University of Padua.
+- Learning <strong>Kotlin, Compose</strong> and refining my <strong>Flutter </strong>skills.
+- AND I'm trying to be a part of the mobile development society.
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h2>🧠 About Me:</h2>
-      <ul>
-        <li>🌱 Learning <strong>Kotlin, Compose</strong> and refining my <strong>Flutter</strong>skills</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/scafu/scafu/main/mainGithub.gif" alt="Chill Mario Pixel Art" width="500"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ### 🧰 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,qt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,bash,git&theme=dark"width="40%" />
 </p>
 
 ---
