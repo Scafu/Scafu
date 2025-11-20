@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Indice lezioni Swe"
             }
+          },
+          {
+            "id": "d5d8c0229b88410c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c83a3c860ab24df5",
+  "active": "bd46d443e6a5e390",
   "lastOpenFiles": [
     "Ingegneria del Software/Indice lezioni Swe.md",
     "Ingegneria del Software"
