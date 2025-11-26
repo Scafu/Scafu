@@ -3,7 +3,6 @@
 
 ### :notebook: Currently learning:
 
-<<<<<<< HEAD
 About Me:
 
 - I'm 21 years old.
@@ -15,14 +14,11 @@ About Me:
 
 ### 🧰 Languages:
 
-=======
->>>>>>> 7e3d5305039cafcbdf46adcb1bd97f638c79620b
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,bash,git&theme=dark"width="40%" />
 </p>
 
 ---
-<<<<<<< HEAD
 
 &nsbp
 
@@ -32,6 +28,5 @@ About Me:
 &nsbp
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="53%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
->>>>>>> 7e3d5305039cafcbdf46adcb1bd97f638c79620b
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>s
 </div>
