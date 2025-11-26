@@ -22,9 +22,6 @@ About Me:
 
 &nsbp
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="51%"/>
-&nsbp
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="53%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </div>
