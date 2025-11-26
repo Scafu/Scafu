@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Alessandro aka Scafu</h1>
-<h3 align="center">💻 Current IT Student at University of Padua</h3>
+<h3 align="center">💻 IT Student at University of Padua</h3>
 
+<<<<<<< HEAD
 ---
 About Me:
 - I'm 21 years old.
@@ -12,21 +13,21 @@ About Me:
 ---
 
 ### 🧰 Languages:
+=======
+### :notebook: Currently learning:
+
+>>>>>>> 7e3d530 (HTML)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,bash,git&theme=dark"width="40%" />
 </p>
 
 ---
-
+&nsbp
 <div align="center">
+<<<<<<< HEAD
     <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="51%"/>
+=======
+    <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="53%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+>>>>>>> 7e3d530 (HTML)
 </div>
-
-
-
-
-
-
-
-
-
