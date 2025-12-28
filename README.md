@@ -18,9 +18,3 @@ About Me:
   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,bash,git&theme=dark"width="40%" />
 </p>
 
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=scafu&show_icons=true&theme=tokyonight&hide_border=true" width="53%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scafu&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</div>
