@@ -8,7 +8,6 @@ About Me:
 - I'm 21 years old.
 - I'm currently studying at University of Padua.
 - Learning <strong>Kotlin, Compose</strong> and refining my <strong>Flutter </strong>skills.
-- AND I'm trying to be a part of the mobile development society.
 
 ---
 
