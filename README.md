@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alessandro aka Scafu</h1>
-<h3 align="center">💻 IT Student at University of Padua</h3>
+<h3 align="center">💻 CS Student at University of Padua</h3>
 
 About Me:
 
