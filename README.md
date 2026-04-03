@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Alessandro aka Scafu</h1>
 <h3 align="center">💻 IT Student at University of Padua</h3>
 
-### :notebook: Currently learning:
-
 About Me:
 
 - I'm 21 years old.
