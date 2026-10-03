@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Alessandro aka Scafu</h1>
-<h3 align="center">💻 CS Student at University of Padua</h3>
+<h3 align="center">💻 CS Graduate at University of Padua</h3>
 
 About Me:
 
-- I'm 21 years old.
-- I'm currently studying at University of Padua.
+- I'm 22 years old.
+- I'm currently working at @Wavelop.
 - Learning <strong>Kotlin, Compose</strong> and refining my <strong>Flutter </strong>skills.
 
 ---
